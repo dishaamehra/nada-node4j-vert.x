@@ -96,4 +96,4 @@ curl "http://localhost:8080/path?from=3fa9c012&to=9b1d4e77"
 
 ## AI tools used
 
-Claude Sonnet (Anthropic) was used to generate the initial code from a prompt I wrote with Claude's help. I reviewed the code myself. (edit if inaccurate)
+Claude (Anthropic) was used as an AI coding assistant to help with implementation planning, clarifying approaches, and resolving coding queries. I defined the requirements, drove the implementation, and independently ran and tested the solution on my local machine (evidence provided in Nada_local_run_evidence.pdf). I also reviewed the generated suggestions and verified the final implementation.
